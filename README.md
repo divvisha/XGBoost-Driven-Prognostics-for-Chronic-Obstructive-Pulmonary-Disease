@@ -33,7 +33,7 @@ The output of the COPD prediction system provides two key results: a prediction 
 1.	Buist, A. S., & McBurnie, M. A. (2017). The Burden of Obstructive Lung Disease (BOLD) Study: A Global Initiative for Chronic Obstructive Lung Disease (GOLD) project. Chest, 132(5), 1970-1978. 
 2.	Gagnon, M. M., & O'Brien, J. (2018). Machine learning models for predicting outcomes in COPD patients: A systematic review. International Journal of Chronic Obstructive Pulmonary Disease, 13, 1311-1324. 
 3.	Bansal, P., & Chawla, A. (2019). Predictive modeling of COPD using machine learning algorithms. Journal of the Indian Medical Association, 117(4), 12-16.
-4.	8.	Lee, T. M., & Chen, C. (2020). Predicting readmission in COPD patients: A machine learning approach. Journal of Clinical Medicine, 9(5), 1525.
+4.	8.	Lee, T. M., & Chen, C. (2020). Predicting readmission in COPD patients: A machine learning approach Journal of Clinical Medicine, 9(5), 1525.
 5.	McCoy, L., & Brabazon, E. (2021). Integration of clinical data for better COPD prognosis using machine learning. Journal of Medical Systems, 45(6), 60.
 6.	Joshi, S., & Chen, T. (2022). Air pollution and COPD: A machine learning approach to assessing risk factors. Environmental Research, 203, 111800.
 7.	Spruit, M. A., & ZuWallack, R. (2023). The effectiveness of pulmonary rehabilitation in improving quality of life in COPD patients: A global study. American Journal of Respiratory and Critical Care Medicine, 207(3), 325-333.
